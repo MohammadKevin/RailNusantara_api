@@ -18,9 +18,9 @@ A comprehensive REST API built with NestJS and Prisma ORM simulating train sched
 ---
 
 ## ✨ Key Features
-- ⚡ **Train route and station schedule search engine**: Train route and station schedule search engine
-- ⚡ **Carriage (Gerbong) seat layout and real-time availability check**: Carriage (Gerbong) seat layout and real-time availability check
-- ⚡ **Ticket reservation and passenger manifest management**: Ticket reservation and passenger manifest management
+- Train route and station schedule search engine
+- Carriage (Gerbong) seat layout and real-time availability check
+- Ticket reservation and passenger manifest management
 
 ---
 
