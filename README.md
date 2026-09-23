@@ -12,19 +12,19 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A comprehensive REST API built with NestJS and Prisma ORM simulating train schedule searches, wagon seat reservations, and digital ticketing.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Train route and station schedule search engine
 - Carriage (Gerbong) seat layout and real-time availability check
 - Ticket reservation and passenger manifest management
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: NestJS
 - **Language**: TypeScript
 - **ORM**: Prisma ORM
@@ -32,7 +32,7 @@ A comprehensive REST API built with NestJS and Prisma ORM simulating train sched
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 RailNusantara_api/
 ├── src/
@@ -45,7 +45,7 @@ RailNusantara_api/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -62,7 +62,7 @@ npm run start:dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -71,9 +71,9 @@ npm run start:dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
